@@ -1,8 +1,10 @@
-
-
-.form-body button a {
-    font-size: 15px;
+ a {
+    background-color: #2288b9;
+    color: #b9c4c6;
+    padding: 5px 10px;
+    border-radius: 4px;
     text-decoration: none;
-    color: #000;
-    text-align: center;
+    margin-top: 100px;
+    border: 2px solid #186a91;
+    transition: .5s;
 }
